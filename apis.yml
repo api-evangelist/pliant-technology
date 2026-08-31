@@ -72,3 +72,9 @@ x-enrichment:
   status: nochange
   artifacts_added: 0
   pass: local-v1
+common:
+- type: ParentCompany
+  url: https://apis.io/providers/sandisk/
+  name: SanDisk
+  x-relationship: acquired
+  x-evidence: "Backed by Lightspeed Venture Partners, the company was acquired by SanDisk in 2011 and its product line was folded into SanDisk's enterprise storage solutions."
