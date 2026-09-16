@@ -43,7 +43,7 @@ x-website: https://plianttechnology.com/
 x-api-surface: none
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-09-15'
+modified: '2026-09-16'
 tags:
 - Company
 - Storage
@@ -52,6 +52,7 @@ tags:
 - Semiconductors
 - Hardware
 - Data-Center
+- Defunct
 tags_raw:
 - Company
 - Storage
@@ -60,6 +61,7 @@ tags_raw:
 - Semiconductors
 - Hardware
 - Data Center
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
