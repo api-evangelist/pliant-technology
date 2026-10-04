@@ -38,7 +38,7 @@ x-backed-by:
 x-tier: stub
 x-tier-reason: portfolio-lead
 x-status: defunct
-x-acquired-by: SanDisk (2011)
+x-acquired-by: sandisk
 x-website: https://plianttechnology.com/
 x-api-surface: none
 specificationVersion: '0.23'
@@ -51,7 +51,7 @@ tags:
 - Enterprise Storage
 - Semiconductors
 - Hardware
-- Data-Center
+- Data Center
 - Defunct
 tags_raw:
 - Company
@@ -62,6 +62,7 @@ tags_raw:
 - Hardware
 - Data Center
 - Defunct
+- Data-Center
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -80,3 +81,4 @@ common:
   x-relationship: acquired
   x-evidence: Backed by Lightspeed Venture Partners, the company was acquired by SanDisk in 2011 and its
     product line was folded into SanDisk's enterprise storage solutions.
+x-acquired-year: 2011
